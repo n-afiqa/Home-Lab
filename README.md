@@ -135,3 +135,15 @@ See the [Troubleshooting](Troubleshooting/README.md) for documented issues, root
 - Verify network isolation before running potentially disruptive tests.
 - Disable shared folders and clipboard sharing unless required.
 - Take VM snapshots before major changes or risky experiments.
+
+## Author & Attribution
+
+Created and maintained by [@n-afiqa](https://github.com/n-afiqa).
+
+If you find this repository useful, please consider:
+
+- ⭐ Starring the repository to show your support.
+- 🍴 Forking the repository if you want to build upon or modify it.
+- 🔗 Linking back to this repository when referencing or sharing its content.
+
+Please give proper credit when using or adapting the materials.
